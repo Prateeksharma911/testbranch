@@ -1,0 +1,15 @@
+Order_push - https://online.apollopharmacy.org/UAT/OrderPlace.svc/Place_orders
+Token-9f15bdd0fcd5423190c2e877ba0228 
+
+
+APC0011
+Cer0017
+
+Apollo code_APC0011- SKU name: APOLLO LIFE COUGH DROPS (MENTHOL, HONEY, GINGER) 300`S
+Apollo code- Cer0017, SKU name: CERUVIN 75MG TABLET 15`S
+
+Apollo Branch code 16001
+Apollo store  name - Apollo TEST UAT
+Pharmacy Id -1092
+
+
